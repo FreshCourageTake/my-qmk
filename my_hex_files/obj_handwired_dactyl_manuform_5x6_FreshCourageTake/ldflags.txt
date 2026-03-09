@@ -1,0 +1,1 @@
+-Wl,--gc-sections -Wl,-Map=.build/handwired_dactyl_manuform_5x6_FreshCourageTake.map,--cref     -lm 
